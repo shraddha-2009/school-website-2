@@ -1,0 +1,42 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    font-family: 'Pattaya', sans-serif;
+}
+
+
+
+.travel_mainDiv {
+    border: 1px solid #030303;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img {
+    width: 30%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head {
+    padding: 6px 22px;
+    float: left
+}
+
+.movie_head span {
+    float: left
+}
